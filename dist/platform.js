@@ -1,4 +1,3 @@
-// src/platform.ts
 export class Platform {
     constructor(x, y, hauteur, longueur) {
         this.x = x;

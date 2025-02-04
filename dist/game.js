@@ -1,4 +1,3 @@
-// src/game.ts
 import { Platform } from './platform';
 import { Player } from './player';
 const gameContainer = document.getElementById("gameContainer");
